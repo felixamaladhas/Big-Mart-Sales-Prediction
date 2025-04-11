@@ -1,8 +1,14 @@
 # Big-Mart-Sales-Prediction
 
+# Objective
+
 The aim is to build a predictive model and find out the sales of each product at a particular store. Create a model by which Big Mart can analyse and predict the outlet production sales.
 
-A perfect project to learn Data Analytics and apply Machine Learning algorithms (Linear Regression, Random Forest Regressor,DecisionTreeRegressor, ExtraTreesRegressor) to predict the outlet production sales.
+A perfect project to learn Data Analytics and apply Machine Learning algorithms (Linear Regression, Random Forest Regressor, DecisionTreeRegressor, ExtraTreesRegressor) to predict the outlet production sales.
+
+# Business Understanding
+
+Big Mart aims to optimize product sales across its retail stores. By leveraging historical sales data, the objective is to build a predictive model that can forecast future sales of individual products at different outlets. Accurate predictions will help in inventory planning, demand forecasting, and strategic decision-making, ultimately leading to increased efficiency and profitability.
 
 # Dataset Description
 
@@ -12,3 +18,15 @@ The data-set is also based on hypotheses of store level and product level. Where
 
 Dataset Link: https://www.kaggle.com/datasets/yasserh/bigmartsalesdataset
 
+# Processing of Analysis
+
+Data Cleaning: Handled missing values (e.g., item weights, outlet sizes) and fixed inconsistent labels (e.g., fat content categories).
+Exploratory Data Analysis (EDA): Analyzed distributions, relationships, and correlations to understand key patterns.
+Feature Engineering: Created new features (e.g., item category, years of operation) and transformed variables for better modeling.
+Data Encoding: Converted categorical variables using Label Encoding and One-Hot Encoding.
+Modeling: Trained multiple regression models including Linear Regression, Ridge, Lasso, Random Forest Regressor, DecisionTreeRegressor, ExtraTreesRegressor.
+Model Evaluation: Compared models using metrics like RMSE to select the best-performing one.
+
+# Conclusion
+
+Machine learning models were used to predict Big Mart product sales. After preprocessing and analysis, models like Linear Regression, Ridge, Lasso, Random Forest Regressor, DecisionTreeRegressor accurate results, helping support better inventory and sales planning.
