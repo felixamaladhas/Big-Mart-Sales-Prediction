@@ -1,5 +1,8 @@
 # Big-Mart-Sales-Prediction
 
+Presentation Link: [Big-Mart Sales Prediction.pptx](https://github.com/user-attachments/files/19707943/Big-Mart.Sales.Prediction.pptx)
+
+
 # Objective
 
 The aim is to build a predictive model and find out the sales of each product at a particular store. Create a model by which Big Mart can analyse and predict the outlet production sales.
