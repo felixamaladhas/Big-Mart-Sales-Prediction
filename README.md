@@ -20,12 +20,12 @@ Dataset Link: https://www.kaggle.com/datasets/yasserh/bigmartsalesdataset
 
 # Processing of Analysis
 
-Data Cleaning: Handled missing values (e.g., item weights, outlet sizes) and fixed inconsistent labels (e.g., fat content categories).
-Exploratory Data Analysis (EDA): Analyzed distributions, relationships, and correlations to understand key patterns.
-Feature Engineering: Created new features (e.g., item category, years of operation) and transformed variables for better modeling.
-Data Encoding: Converted categorical variables using Label Encoding and One-Hot Encoding.
-Modeling: Trained multiple regression models including Linear Regression, Ridge, Lasso, Random Forest Regressor, DecisionTreeRegressor, ExtraTreesRegressor.
-Model Evaluation: Compared models using metrics like RMSE to select the best-performing one.
+* Data Cleaning: Handled missing values (e.g., item weights, outlet sizes) and fixed inconsistent labels (e.g., fat content categories).
+* Exploratory Data Analysis (EDA): Analyzed distributions, relationships, and correlations to understand key patterns.
+* Feature Engineering: Created new features (e.g., item category, years of operation) and transformed variables for better modeling.
+* Data Encoding: Converted categorical variables using Label Encoding and One-Hot Encoding.
+* Modeling: Trained multiple regression models including Linear Regression, Ridge, Lasso, Random Forest Regressor, DecisionTreeRegressor, ExtraTreesRegressor.
+* Model Evaluation: Compared models using metrics like RMSE to select the best-performing one.
 
 # Conclusion
 
